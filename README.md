@@ -6,7 +6,7 @@
     <tr border="0">      
         <td align="left">
             💻 Java Backend Developer <br>
-            About Me :<br>
+            <h1> About Me :</h1><br>
             - 📆 5 years in the world of IT.<br>
             - :telescope: I work as a software engineer and contribute to the backend <br> 
                 for creating web and desktop applications.<br>
