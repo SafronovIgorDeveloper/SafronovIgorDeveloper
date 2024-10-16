@@ -18,10 +18,7 @@
         </td>
     </tr>
     <td style="display: block; margin: 0 auto; padding:0;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" />
-    </td>
-    <td style="display: block; margin: 0 auto; padding:0;">
-        <h5>Languages and Tools :</h5>
+        <h5>:hammer_and_wrench: Languages and Tools :</h5>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" **alt="Redis" width="40" height="40"/>
@@ -36,6 +33,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
+    </td>
+    <td style="display: block; margin: 0 auto; padding:0;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" />
     </td>
 </table>
  
