@@ -36,9 +36,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
     </td>
     </tr>
+    <tr border="0">
     <td style="display: block; margin: 0 auto; padding:0;">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" />
     </td>
+    </tr>
 </table>
 <!--
 **SafronovIgorDeveloper/SafronovIgorDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
