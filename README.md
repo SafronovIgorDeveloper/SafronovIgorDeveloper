@@ -10,9 +10,11 @@
 ⚡️     Software Engineer   <br>
  <br>     
    </td>
-  <td style="display: block; margin: 0 auto;
-    padding:0;">
-<img align="right" style="height:200px;" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" alt="" />
+  <td style="display: block; margin: 0 auto; padding:0;">
+    <img align="right" style="height:200px;" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" alt="" />
+  </td>
+  <td style="display: block; margin: 0 auto; padding:0;">  
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" /></p>
   </td>
  </tr>
 </table>
@@ -41,10 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
-
----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" /></p>
 <!--
 **SafronovIgorDeveloper/SafronovIgorDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
