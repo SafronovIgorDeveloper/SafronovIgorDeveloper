@@ -2,21 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋😃;+I'm+Igor+👋😃;"/>
 </h1>
 
-<table border="0" align="center">
-    <tr border="0">      
-        <td align="left">
-            <h5> About Me :</h5>
-            - 💻 I Java Backend Developer. <br>
-            - 📆 5 years in the world of IT.<br>
-            - :telescope: I work as a software engineer and contribute to the backend <br> 
-                for creating web and desktop applications.<br>
-            - :zap: In my free time I study and read technical articles.<br>
-            - 👨🏻‍🎨 Creative, programming specialist.<br>   
-        </td>
-        <td style="display: block; margin: 0 auto; padding:0;">
-            <img align="right" style="height:200px;" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" />
-        </td>
-    </tr>
+<table border="0" align="center">    
+    <td align="left">
+        <h5> About Me :</h5>
+        - 💻 I Java Backend Developer. <br>
+        - 📆 5 years in the world of IT.<br>
+        - :telescope: I work as a software engineer and contribute to the backend <br> 
+            for creating web and desktop applications.<br>
+        - :zap: In my free time I study and read technical articles.<br>
+        - 👨🏻‍🎨 Creative, programming specialist.<br>   
+    </td>
+    <td style="display: block; margin: 0 auto; padding:0;">
+        <img align="right" style="height:200px;" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" />
+    </td>
     <td style="display: block; margin: 0 auto; padding:0;">
         <h5>:hammer_and_wrench: Languages and Tools :</h5>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
