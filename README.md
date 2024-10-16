@@ -13,11 +13,9 @@
             - :zap: In my free time I study and read technical articles.<br>
             - 👨🏻‍🎨 Creative, programming specialist.<br>   
         </td>
-
         <td style="display: block; margin: 0 auto; padding:0;">
             <img align="right" style="height:200px;" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" />
         </td>
-    </tr>
         <td style="display: block; margin: 0 auto; padding:0;">
             <h5>:hammer_and_wrench: Languages and Tools :</h5>
             <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
