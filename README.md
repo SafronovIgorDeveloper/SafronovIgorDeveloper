@@ -35,7 +35,7 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="50" height="50"/>
         </td>
         <td style="display: block; margin: 0 auto; padding:0; width: 100%;">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="SafronovIgorDeveloper" />
+            <img align="center" style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="SafronovIgorDeveloper" />
         </td>
     </tr>
 </table>
