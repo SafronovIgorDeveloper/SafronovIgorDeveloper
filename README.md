@@ -4,8 +4,22 @@
 <h1 align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋😃;+I'm+Igor+👋😃;"/>
 </h1>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Backend developer from Russia 🇷🇺</h3>
+
+<table border="0" align="center">
+  <tr border="0">      
+    <td align="left">
+💻    Java Backend Developer <br>
+      <br>
+⚡️     Software Engineer   <br>
+ <br>     
+   </td>
+  <td style="display: block; margin: 0 auto;
+    padding:0;">
+<img align="right" style="height:200px;" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" alt="" />
+  </td>
+ </tr>
+</table>
 
 ### :woman_technologist: About Me :
 - 📆 5 years in the world of IT.
