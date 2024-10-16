@@ -8,7 +8,8 @@
             💻 Java Backend Developer <br><br>
             About Me :<br>
             - 📆 5 years in the world of IT.<br>
-            - :telescope: I work as a software engineer and contribute to the backend for creating web and desktop applications.<br>
+            - :telescope: I work as a software engineer and contribute to the backend <br> 
+                for creating web and desktop applications.<br>
             - :zap: In my free time I study and read technical articles.<br>
             - 👨🏻‍🎨 Creative, programming specialist.<br>   
         </td>
