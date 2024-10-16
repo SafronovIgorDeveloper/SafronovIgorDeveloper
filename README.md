@@ -5,7 +5,7 @@
 <table border="0" align="center">
     <tr border="0">      
         <td align="left">
-            💻 Java Backend Developer <br><br>
+            💻 Java Backend Developer <br>
             About Me :<br>
             - 📆 5 years in the world of IT.<br>
             - :telescope: I work as a software engineer and contribute to the backend <br> 
