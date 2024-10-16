@@ -5,8 +5,8 @@
 <table border="0" align="center">
     <tr border="0">      
         <td align="left">
-            💻 Java Backend Developer <br>
             <h5> About Me :</h5>
+            - 💻 I Java Backend Developer. <br>
             - 📆 5 years in the world of IT.<br>
             - :telescope: I work as a software engineer and contribute to the backend <br> 
                 for creating web and desktop applications.<br>
