@@ -13,6 +13,7 @@
             - :zap: In my free time I study and read technical articles.<br>
             - 👨🏻‍🎨 Creative, programming specialist.<br>   
         </td>
+    </tr>
         <td style="display: block; margin: 0 auto; padding:0;">
             <img align="right" style="height:200px;" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" />
         </td>
@@ -36,7 +37,6 @@
         <td style="display: block; margin: 0 auto; padding:0;">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" />
         </td>
-    </tr>
 </table>
 <!--
 **SafronovIgorDeveloper/SafronovIgorDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
