@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="300"/>
 </div>
-<h1 align="center">Hi there, I'm <a target="_blank">Igor</a> 
+<h1 align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋😃;+I'm+Igor+👋😃;"/>
+</h1>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Backend developer from Russia 🇷🇺</h3>
 
