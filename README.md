@@ -10,6 +10,8 @@
 I am a Backend Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75">
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 - :zap: In my free time I study and read technical articles.
+  <!--
+  - :mailbox:How to reach me: [![Linkedin Badge](your-linkedin-url)]
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
