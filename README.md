@@ -3,21 +3,15 @@
 </h1>
 
 <table border="0" align="center">
-  <tr border="0">      
-    <td align="left">
-💻    Java Backend Developer <br>
-      <br>
-⚡️     Software Engineer   <br>
- <br>     
-   </td>
-  <td style="display: block; margin: 0 auto; padding:0;">
-    <img align="right" style="height:200px;" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" alt="" />
-  </td>
- </tr>
+    <tr border="0">      
+        <td align="left">
+            💻    Java Backend Developer <br><br>
+            ⚡️     Software Engineer <br><br>     
+        </td>
+    </tr>
     <td style="display: block; margin: 0 auto; padding:0;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" />
-  </td>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" /></p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" />
+    </td>
 </table>
  
 ### :woman_technologist: About Me :
