@@ -7,7 +7,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">.
+I am a Backend Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75">
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 ---
 
