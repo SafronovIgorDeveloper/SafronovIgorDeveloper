@@ -4,6 +4,7 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Igor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Backend developer from Russia 🇷🇺</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravidsrk&label=Views&color=blue&style=plastic" alt="ravidsrk" /> </p>
 
 ### :woman_technologist: About Me :
 
