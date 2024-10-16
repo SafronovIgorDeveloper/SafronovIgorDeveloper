@@ -6,7 +6,7 @@
 <h3 align="center">Backend developer from Russia 🇷🇺</h3>
 
 ### :woman_technologist: About Me :
-- 📆 5+ years in the world of programming
+- 📆 2 years in the world of programming
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 - :zap: In my free time I study and read technical articles.
 - 👨🏻‍🎨 Creative, programming specialist
