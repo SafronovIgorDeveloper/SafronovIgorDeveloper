@@ -4,7 +4,7 @@
 
 <table border="0" align="center">
     <tr border="0">
-        <td align="left">
+        <td align="left" style="display: block; margin: 0 auto; padding:0;">
             <h5> About Me :</h5>
             - 💻 I Java Backend Developer. <br>
             - 📆 5 years in the world of IT.<br>
@@ -14,7 +14,7 @@
             - 👨🏻‍🎨 Creative, programming specialist.<br>   
         </td>
         <td style="display: block; margin: 0 auto; padding:0;">
-            <img align="right" style="height:200px; width:300" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" />
+            <img align="right" style="height:200px;" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" />
         </td>
     <tr border="0">
         <td style="display: block; margin: 0 auto; padding:0;">
