@@ -4,7 +4,7 @@
 
 <table border="0" align="center">
     <tr border="0">      
-        <td align="left">
+        <td align="center">
             💻    Java Backend Developer <br><br>
             ⚡️     Software Engineer <br><br>     
         </td>
