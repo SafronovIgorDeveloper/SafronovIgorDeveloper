@@ -6,7 +6,11 @@
     <tr border="0">      
         <td align="center">
             💻    Java Backend Developer <br><br>
-            ⚡️     Software Engineer <br><br>     
+            ### :woman_technologist: About Me :
+            - 📆 5 years in the world of IT.
+            - :telescope: I work as a software engineer and contribute to the backend for creating web and desktop applications.
+            - :zap: In my free time I study and read technical articles.
+            - 👨🏻‍🎨 Creative, programming specialist.   
         </td>
         <td style="display: block; margin: 0 auto; padding:0;">
             <img align="right" style="height:200px;" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" />
@@ -17,11 +21,6 @@
     </td>
 </table>
  
-### :woman_technologist: About Me :
-- 📆 5 years in the world of IT.
-- :telescope: I work as a software engineer and contribute to the backend for creating web and desktop applications.
-- :zap: In my free time I study and read technical articles.
-- 👨🏻‍🎨 Creative, programming specialist.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
