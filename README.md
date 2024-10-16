@@ -14,8 +14,9 @@
     <img align="right" style="height:200px;" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" alt="" />
   </td>
  </tr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" /></p>
 </table>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" /></p>
+ 
 ### :woman_technologist: About Me :
 - 📆 5 years in the world of IT.
 - :telescope: I work as a software engineer and contribute to the backend for creating web and desktop applications.
