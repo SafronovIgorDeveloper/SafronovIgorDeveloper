@@ -6,8 +6,6 @@
 <h3 align="center">Backend developer from Russia 🇷🇺</h3>
 
 ### :woman_technologist: About Me :
-
-I am a Backend Developer.
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 - :zap: In my free time I study and read technical articles.
 ---
