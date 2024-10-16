@@ -4,7 +4,11 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Igor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Backend developer from Russia 🇷🇺</h3>
-  
+
+### :woman_technologist: About Me :
+
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
