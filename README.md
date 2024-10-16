@@ -13,7 +13,7 @@
   <td style="display: block; margin: 0 auto; padding:0;">
     <img align="right" style="height:200px;" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" alt="" />
   </td>
-  <td style="display: block; margin: 0 auto; padding:0;">  
+  <td style="display: block; margin: 0 auto; padding:0;" align="center">  
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" /></p>
   </td>
  </tr>
