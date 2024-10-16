@@ -7,9 +7,9 @@
 
 ### :woman_technologist: About Me :
 - 📆 5 years in the world of IT.
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+- :telescope: I work as a software engineer and contribute to the backend for creating web and desktop applications.
 - :zap: In my free time I study and read technical articles.
-- 👨🏻‍🎨 Creative, programming specialist
+- 👨🏻‍🎨 Creative, programming specialist.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
