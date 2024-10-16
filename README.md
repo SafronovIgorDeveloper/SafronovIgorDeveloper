@@ -8,6 +8,9 @@
             💻    Java Backend Developer <br><br>
             ⚡️     Software Engineer <br><br>     
         </td>
+        <td style="display: block; margin: 0 auto; padding:0;">
+            <img align="right" style="height:200px;" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" />
+        </td>
     </tr>
     <td style="display: block; margin: 0 auto; padding:0;">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" />
