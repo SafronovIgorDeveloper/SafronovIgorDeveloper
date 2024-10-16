@@ -14,6 +14,7 @@
             - 👨🏻‍🎨 Creative, programming specialist.<br>   
         </td>
     </tr>
+    <tr border="0">
         <td style="display: block; margin: 0 auto; padding:0;">
             <img align="right" style="height:200px;" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" />
         </td>
@@ -34,6 +35,7 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>
             <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
         </td>
+    </tr>
         <td style="display: block; margin: 0 auto; padding:0;">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=SafronovIgorDeveloper&show_icons=true&locale=en" alt="gambl3r08" />
         </td>
